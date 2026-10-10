@@ -15,7 +15,9 @@ Hope you guys like it! Feel free to check out the repository and let me know wha
 
 <img width="655" height="191" alt="Screenshot 2026-10-10 141807" src="https://github.com/user-attachments/assets/55bdfcd2-b8c2-4854-b55a-9e5c197b3607" />
 
-<img width="898" height="474" alt="Screenshot 2026-10-10 141913" src="https://github.com/user-attachments/assets/c175dc1e-61ad-442b-b8f5-8d89021c6ba1" />
+<img width="1110" height="443" alt="Screenshot 2026-10-10 144306" src="https://github.com/user-attachments/assets/c738eae8-5f9f-45bd-8709-3d569df55949" />
+<img width="1209" height="383" alt="image" src="https://github.com/user-attachments/assets/370b6971-d3d3-4856-a281-587bac3c3904" />
+
 
 Thanks for visiting!!!
 — MIKE
