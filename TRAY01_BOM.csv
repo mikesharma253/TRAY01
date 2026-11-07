@@ -1,2 +1,8 @@
-Item No.,Part / Material,Description,Material,Quantity,Unit,
-1,TRAY01 Body,3D-printed tray for holding nails and small project parts,3D-printing filament ,1,piece,,
+Item No.,Part / Material,Description,Material,Quantity,Unit,Unit Price (USD),Total Price (USD)
+1,TRAY01 Body,Main tray structure with storage compartments,PLA 3D Printing Filament,1,Piece,0.95,0.95
+2,Filament Support,Material used for printing structural sections,PLA Filament,1,Lot,0.12,0.12
+3,Surface Finish,Sanding and finishing material,Sandpaper,1,Piece,0.06,0.06
+4,Design Software,3D CAD modelling and design,Onshape,1,License,0.00,0.00
+5,Manufacturing,3D printing service and machine usage,3D Printer,1,Job,0.35,0.35
+6,Packaging,Protection during storage and transport,Cardboard,1,Piece,0.06,0.06
+TOTAL,,,,,,1.54,1.54
