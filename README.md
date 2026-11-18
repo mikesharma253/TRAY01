@@ -10,6 +10,16 @@ https://github.com/mikesharma253/TRAY01
 2. STEP
 3. README
 4. BOM (Bill of Materials)
+
+
+## BOM (Bill of Materials)
+
+| No. | Item | Quantity | Unit | Unit Cost ($) | Total Cost ($) |
+|---|---|---:|---|---:|---:|
+| 1 | PLA Filament | 50 | Grams | 0.02 | 1.00 |
+| | **Grand Total** | | | | **1.00** |
+
+
 Some pictures of my cool projects are here:
 Hope you guys like it! Feel free to check out the repository and let me know what you think!
 
